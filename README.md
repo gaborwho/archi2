@@ -1,6 +1,4 @@
 # archi2
-tanulgatunk, tanulgatunk?
-
 
 Párhuzamos architektúrák
 
