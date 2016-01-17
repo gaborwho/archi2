@@ -1,6 +1,6 @@
 ./1/7.png
 ./1/6.png
-./1/8.png
+./1/8.png,utasítás szinten párhuzamos architektúrák fejlődése
 ./1/5.png,párhuzamos architektúrák osztályozása
 ./1/3a.png
 ./1/4.png
@@ -19,7 +19,7 @@
 ./10/9.png
 ./10/2.png
 ./11/7.png
-./11/3.png
+./11/3.png,folyamat szinten párhuzamos architektúrák motivációja
 ./11/6.png
 ./11/8.png
 ./11/5.png
@@ -105,7 +105,7 @@
 ./9/7.png
 ./9/3.png
 ./9/6.png
-./9/5.png
+./9/5.png,willamette esettanulmány
 ./9/4.png
 ./9/1.png,intel itanium végrehajtási modellje
 ./9/2.png,vliw felhasználása
