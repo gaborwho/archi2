@@ -1,63 +1,64 @@
-./1/7.png
-./1/6.png
+./1/7.png,ilp kibocsátás
+./1/6.png,párhuzamos architektúrák korszerű osztályozása
 ./1/8.png,utasítás szinten párhuzamos architektúrák fejlődése
 ./1/5.png,párhuzamos architektúrák osztályozása
 ./1/3a.png,funkcionális párhuzamosság
-./1/4.png
-./1/1.png
-./1/3b.png
+./1/4.png,szemcsézettség
+./1/1.png,párhuzamos architektúrák
+./1/3b.png,kihasználható funkcionális párhuzamosság
 ./1/9.png,ilp
+./1/10.png,I. gen szuperskalár
 ./1/2.png,adatpárhuzamosság
 ./10/7.png,többszálú végrehajtást támogató cpu-k
-./10/3.png
-./10/6.png
-./10/8.png
+./10/3.png,párhuzamos szálak származtatása
+./10/6.png,szálszinten párhuzamos architektúrák osztályozása
+./10/8.png,smt ábra
 ./10/5.png
-./10/4.png
+./10/4.png,szálszintű párhuzamosság fajtái
 ./10/1.png
 ./10/10.png
 ./10/9.png
 ./10/2.png
 ./11/7.png
 ./11/3.png,folyamat szinten párhuzamos architektúrák motivációja
-./11/6.png,szálszinten párhuzamos architektúrák osztályozása
-./11/8.png
+./11/6.png,osztályozás memória műveletek alapján
+./11/8.png,elosztott memória csomópont
 ./11/5.png
 ./11/4.png,folyamat szinten párhuzamos architektúrák korlátai
 ./11/1.png
 ./11/10.png
-./11/9.png
+./11/9.png,numa rendszer altípusai
 ./11/2.png
 ./13/7.png
 ./13/3.png,cache visszakeresés módja
 ./13/6.png
 ./13/8.png,set associative cache
-./13/5.png
+./13/5.png,cache jellemzői
 ./13/4.png,mit tárolunk a cache-ben
 ./13/1.png,cache fogalma
 ./13/10.png
 ./13/9.png
 ./13/2.png
-./2/7.png
+./2/7.png,ciklusbeli adatfüggőségek
 ./2/3.png,függőségek csoportosítása
 ./2/6.png,waw
 ./2/8.png,vezérlés függőségek
-./2/5.png
-./2/4.png
+./2/5.png,war
+./2/4.png,valós adatfüggőség
 ./2/1.png,vliw fejlődési útja és célja
-./2/2.png
-./3/12.png
+./2/2.png,ilp processzorokkal szemben támasztott követelmények
+./3/12.png,powerpc felépítese
 ./3/7.png,futószalag feldolgozás előfeltételei
 ./3/3.png,szekvenciális konzisztenciák megőrzése
-./3/6.png
-./3/8.png
+./3/6.png,futószalagos architektúra
+./3/8.png,futószalag fokozatok sorrendjének meghatározása
 ./3/5.png,kivételkezelés soros konzisztenciája
 ./3/11.png,a futószalag megvalósítása
-./3/4.png
-./3/1.png
-./3/10.png
-./3/9.png
-./3/2.png
+./3/4.png,utasítás végrehajtás soros konzisztenciája
+./3/1.png,feltételes ugrások kezelése
+./3/10.png,futószalag logikai felépítése
+./3/9.png,futószalagok alkalmazási területei
+./3/2.png,erőforrás függőségek
 ./4/7.png,párhuzamos kibocsátás
 ./4/3.png,cisc processzorok jellemzői
 ./4/6.png
@@ -67,27 +68,27 @@
 ./4/1.png
 ./4/9.png,harvard architektúra
 ./4/2.png,risc processzorok jellemzői
-./5/7.png
+./5/7.png,pentium I ábra
 ./5/3.png,risc végrehajtási modell
-./5/6.png
+./5/6.png,pentium I jellemzōi
 ./5/8.png
 ./5/5.png
 ./5/11.png
 ./5/4.png,I. gen szuperskalár ábra
 ./5/1.png
-./5/10.png
+./5/10.png,2 bites dinamikus becslés
 ./5/9.png,dinamikus becslés
 ./5/2.png
 ./6/3.png
 ./6/6.png,pentium pro kiküldés
 ./6/5.png
-./6/4.png
+./6/4.png,cisc
 ./6/1.png
-./6/2.png
+./6/2.png,regiszter átnevezés
 ./7/3.png
 ./7/6.png
 ./7/5.png
-./7/4.png
+./7/4.png,képfeldolgozás
 ./7/1.png,rob
 ./7/2.png,utasításon belüli párhuzamosság / harmadik generációs szuperskalárok
 ./8/12.png,itanium összefoglaló
@@ -96,11 +97,11 @@
 ./8/6.png
 ./8/8.png,merced cpu
 ./8/5.png,keskeny vliw-ek jellemzői
-./8/11.png,itanium tulajdonságai
+./8/11.png,itanium (ia64) tulajdonságai
 ./8/4.png,vliw alkalmazási területei
-./8/1.png
-./8/10.png
-./8/9.png
+./8/1.png,sse
+./8/10.png,ia64 template mező
+./8/9.png,ia64 logikai architektúrája
 ./8/2.png
 ./9/7.png
 ./9/3.png,út a netburst architektúra felé
