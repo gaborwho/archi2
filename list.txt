@@ -1,14 +1,14 @@
 ./1/7.png
 ./1/6.png
 ./1/8.png
-./1/5.png
+./1/5.png párhuzamos architektúrák osztályozása
 ./1/3a.png
 ./1/4.png
 ./1/1.png
 ./1/3b.png
-./1/9.png
+./1/9.png ilp
 ./1/2.png
-./10/7.png
+./10/7.png többszálú végrehajtást támogató cpu-k
 ./10/3.png
 ./10/6.png
 ./10/8.png
@@ -29,26 +29,26 @@
 ./11/9.png
 ./11/2.png
 ./13/7.png
-./13/3.png
+./13/3.png cache visszakeresés módja
 ./13/6.png
-./13/8.png
+./13/8.png set associative cache
 ./13/5.png
-./13/4.png
+./13/4.png mit tárolunk a cache-ben
 ./13/1.png
 ./13/10.png
 ./13/9.png
 ./13/2.png
 ./2/7.png
 ./2/3.png
-./2/6.png
-./2/8.png
+./2/6.png waw
+./2/8.png vezérlés függőségek
 ./2/5.png
 ./2/4.png
-./2/1.png
+./2/1.png vliw fejlődési útja és célja
 ./2/2.png
 ./3/12.png
 ./3/7.png
-./3/3.png
+./3/3.png szekvenciális konzisztenciák megőrzése
 ./3/6.png
 ./3/8.png
 ./3/5.png
@@ -58,7 +58,7 @@
 ./3/10.png
 ./3/9.png
 ./3/2.png
-./4/7.png
+./4/7.png párhuzamos kibocsátás
 ./4/3.png
 ./4/6.png
 ./4/8.png
@@ -90,14 +90,14 @@
 ./7/4.png
 ./7/1.png
 ./7/2.png
-./8/12.png
+./8/12.png itanium összefoglaló
 ./8/7.png
 ./8/3.png
 ./8/6.png
-./8/8.png
+./8/8.png merced cpu
 ./8/5.png
 ./8/11.png
-./8/4.png
+./8/4.png vliw alkalmazási területei
 ./8/1.png
 ./8/10.png
 ./8/9.png
@@ -107,5 +107,5 @@
 ./9/6.png
 ./9/5.png
 ./9/4.png
-./9/1.png
+./9/1.png intel itanium végrehajtási modellje
 ./9/2.png
