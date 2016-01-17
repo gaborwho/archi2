@@ -40,7 +40,8 @@
 ./13/9.png,sector mapping cache
 ./13/2.png,cache jellemzői
 ./2/7.png,ciklusbeli adatfüggőségek
-./2/3.png,függőségek csoportosítása
+./2/3a.png,függőségek csoportosítása
+./2/3b.png,adatfüggőségek
 ./2/6.png,waw
 ./2/8.png,vezérlés függőségek
 ./2/5.png,war
