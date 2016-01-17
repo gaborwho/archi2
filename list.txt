@@ -89,7 +89,7 @@
 ./7/5.png
 ./7/4.png
 ./7/1.png
-./7/2.png
+./7/2.png utasításon belüli párhuzamosság / harmadik generációs szuperskalárok
 ./8/12.png itanium összefoglaló
 ./8/7.png
 ./8/3.png
@@ -108,4 +108,4 @@
 ./9/5.png
 ./9/4.png
 ./9/1.png intel itanium végrehajtási modellje
-./9/2.png
+./9/2.png vliw felhasználása
