@@ -26,7 +26,7 @@
 ./11/5.png,amdahl
 ./11/4.png,folyamat szinten párhuzamos architektúrák korlátai
 ./11/1.png,szálszinten párhuzamos architektúrák ht modellje
-./11/10.png,numa korlátai
+./11/10.png,numa összehasonlítása uma-val
 ./11/9.png,numa rendszer altípusai
 ./11/2.png,folyamat szinten párhuzamos architektúrák
 ./13/7.png,direkt mapping
