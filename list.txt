@@ -18,7 +18,7 @@
 ./10/1.png,szálszinten párhuzamos architektúrák
 ./10/10.png,ht működési modell
 ./10/9.png,smt
-./10/2.png,szálszintű párhuzamosság formái
+./10/2.png,párhuzamosság formái
 ./11/7.png,közös memóriahasználatú rendszer
 ./11/3.png,folyamat szinten párhuzamos architektúrák motivációja
 ./11/6.png,osztályozás memória műveletek alapján
